@@ -1,0 +1,8 @@
+.env
+.git
+__pycache__
+*.pyc
+data/raw
+data/manual_darglobal
+data/index
+tests
